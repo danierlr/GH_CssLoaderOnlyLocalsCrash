@@ -60,7 +60,7 @@ module.exports = {
                 hashPrefix: '_',
               },
               importLoaders: 2,
-              onlyLocals: false,
+              onlyLocals: true,
             },
           },
           {
